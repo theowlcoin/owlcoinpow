@@ -1,0 +1,12 @@
+2018-Jan-12 01:55:24.353672 INFO    [daemon] owlcoin v2.1.2.1251 ()
+2018-Jan-12 01:55:24.354203 INFO    [daemon] Module folder: ./owlcoind
+2018-Jan-12 01:55:24.357097 INFO    [RocksDBWrapper] Opening DB in /home/owlcoin/.owlcoin/DB
+2018-Jan-12 01:55:24.358819 INFO    [RocksDBWrapper] DB not found in /home/owlcoin/.owlcoin/DB. Creating new DB...
+2018-Jan-12 01:55:24.377172 INFO    [daemon] Initializing core...
+2018-Jan-12 01:55:24.383091 INFO    [daemon] Core initialized OK
+2018-Jan-12 01:55:24.383319 INFO    [daemon] Initializing p2p server...
+2018-Jan-12 01:55:24.383955 ERROR   [node_server] Failed to resolve host name '54.37.235.250:19360, 54.37.235.249': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2018-Jan-12 01:55:24.384149 INFO    [node_server] Generated new peer ID: 4587293372631780558
+2018-Jan-12 01:55:24.384257 INFO    [node_server] Binding on 0.0.0.0:19360
+2018-Jan-12 01:55:24.384896 INFO    [node_server] Net service binded on 0.0.0.0:19360
+2018-Jan-12 01:55:24.385027 INFO    [node_server] Attempting to add IGD port mapping.
